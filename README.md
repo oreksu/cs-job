@@ -6,6 +6,7 @@ Where to look for CS job
 
 ## Startups
 - [wellfound:](https://angel.co/jobs)
+- [Work at a Startup by YCombinator](https://www.workatastartup.com)
 
 ## Special
 ### Early Career
